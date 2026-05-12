@@ -23,7 +23,7 @@ The analysis is built around three main questions:
 
 ## Project Structure
 
-### `data\\\_understanding.ipynb`
+### data_understanding.ipynb
 
 Initial exploration of the raw dataset, including:
 
@@ -33,7 +33,7 @@ Initial exploration of the raw dataset, including:
 * duplicate checks
 * early data quality observations
 
-### `data\\\_cleaning.ipynb`
+### data_cleaning.ipynb
 
 Data preparation and transformation, including:
 
@@ -44,7 +44,7 @@ Data preparation and transformation, including:
 * treatment of inconsistent values
 * preparation of the cleaned dataset for analysis
 
-### `business\\\_analysis.ipynb`
+### business_analysis.ipynb
 
 Business analysis of the cleaned dataset, covering:
 
@@ -54,7 +54,7 @@ Business analysis of the cleaned dataset, covering:
 
 ## Main Analysis Areas
 
-### 1\. Retail Analytics
+### 1. Retail Analytics
 
 This section examines catalog structure across markets, including:
 
@@ -63,7 +63,7 @@ This section examines catalog structure across markets, including:
 * subcategory patterns
 * gender segment distribution
 
-### 2\. Price Intelligence
+### 2. Price Intelligence
 
 This section evaluates cross-market pricing behavior, including:
 
@@ -72,7 +72,7 @@ This section evaluates cross-market pricing behavior, including:
 * promotion activity across markets
 * price dispersion for shared products
 
-### 3\. Size Availability Modeling
+### 3. Size Availability Modeling
 
 This section focuses on stock depth and fulfillment patterns, including:
 
